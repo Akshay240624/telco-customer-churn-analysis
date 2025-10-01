@@ -109,16 +109,10 @@ Here are some key visualizations from the analysis:
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## 🙌 Acknowledgments
 
 * [Inside churn-analysis](https://www.kaggle.com/datasets/palashfendarkar/wa-fnusec-telcocustomerchurn) for providing the dataset.
-* Paris regulatory context from local housing policies.
 
 ---
 
