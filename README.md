@@ -96,7 +96,7 @@ Open telco-churn-analysis.ipynb and run cells step by step 🚀
 Here are some key visualizations from the analysis:
 
 * **Long-term tenure correlates with retention; recent customers (1-2 months) show higher churn risk.**
-  ![Listings Growth](images/listings_growth.png)
+  ![](https://github.com/Akshay240624/telco-customer-churn-analysis/blob/main/images/Screenshot%202025-10-01%20160552.png)
 
 * **Average Price by Locality**
   ![Price by Locality](images/price_locality.png)
