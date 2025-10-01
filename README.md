@@ -95,7 +95,7 @@ Open telco-churn-analysis.ipynb and run cells step by step 🚀
 
 Here are some key visualizations from the analysis:
 
-* **Phone, DSL, and OnlineSecurity; avoid dropping Backup, Support, Streaming.?**
+* **Long-term tenure correlates with retention; recent customers (1-2 months) show higher churn risk.**
   ![Listings Growth](images/listings_growth.png)
 
 * **Average Price by Locality**
