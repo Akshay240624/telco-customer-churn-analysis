@@ -98,8 +98,8 @@ Here are some key visualizations from the analysis:
 * **Long-term tenure correlates with retention; recent customers (1-2 months) show higher churn risk.**
   ![](https://github.com/Akshay240624/telco-customer-churn-analysis/blob/main/images/Screenshot%202025-10-01%20160552.png)
 
-* **Average Price by Locality**
-  ![Price by Locality](images/price_locality.png)
+* **#Plot a line graph showing the relationship between tenure and MonthlyCharges.**
+  ![](https://github.com/Akshay240624/telco-customer-churn-analysis/blob/main/images/Screenshot%202025-10-01%20161044.png)
 
 * **Impact of 2017 Regulation on Host Entries**
   ![Regulation Impact](images/regulation_impact.png)
