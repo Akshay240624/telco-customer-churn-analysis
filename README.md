@@ -101,8 +101,11 @@ Here are some key visualizations from the analysis:
 * **#Plot a line graph showing the relationship between tenure and MonthlyCharges.**
   ![](https://github.com/Akshay240624/telco-customer-churn-analysis/blob/main/images/Screenshot%202025-10-01%20161044.png)
 
-* **Impact of 2017 Regulation on Host Entries**
-  ![Regulation Impact](images/regulation_impact.png)
+* **Customer churn vs Average monthly charges **
+  ![Regulation Impact](https://github.com/Akshay240624/telco-customer-churn-analysis/blob/main/images/Screenshot%202025-10-01%20161302.png)
+
+  ** Histogram of monthly charges**
+  ![](https://github.com/Akshay240624/telco-customer-churn-analysis/blob/main/images/Screenshot%202025-10-01%20161314.png)
 
 ---
 
