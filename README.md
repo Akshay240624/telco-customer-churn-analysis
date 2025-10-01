@@ -1,4 +1,4 @@
-![Stunning Paris Airbnb](https://cdn.getmidnight.com/0c4c04acf192e7bfe1c2225a45815ad6/2023/04/churn-analysis-resources.jpg)
+![Customer-churn-analysis](https://cdn.getmidnight.com/0c4c04acf192e7bfe1c2225a45815ad6/2023/04/churn-analysis-resources.jpg)
 
 # 📞✨ Telco Customer Churn Analysis
 
